@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoculus_web=self.webpackChunkoculus_web||[]).push([[592],{696:(s,u,e)=>{e.d(u,{L:()=>o});var a=e(7340);const o=[(0,a.X$)("fade",[(0,a.eR)("void => *",[(0,a.oB)({opacity:0}),(0,a.jt)(700,(0,a.oB)({opacity:1}))])])]}}]);
